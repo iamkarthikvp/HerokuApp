@@ -1,0 +1,687 @@
+2019-12-30 01:04:08.577 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 01:04:08.585 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:04:12.713 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 01:04:16.157 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - navigated to home
+2019-12-30 01:04:16.209 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - finded the links count
+2019-12-30 01:04:16.209 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count is 43
+2019-12-30 01:04:16.209 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count test pass
+2019-12-30 01:04:16.525 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 01:04:16.525 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 01:04:16.529 [WARNING] com.HerokuApp.HomePageTest HomeLinkpresenttest - you entered a wrong link
+2019-12-30 01:09:26.948 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 01:09:26.956 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:09:31.091 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 01:09:35.023 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - navigated to home
+2019-12-30 01:09:35.079 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - finded the links count
+2019-12-30 01:09:35.083 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count is 43
+2019-12-30 01:09:35.087 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count test pass
+2019-12-30 01:09:35.367 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 01:09:35.367 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 01:09:35.371 [WARNING] com.HerokuApp.HomePageTest HomeLinkpresenttest - you entered a wrong link
+2019-12-30 01:14:00.862 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:14:08.723 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - navigated to home
+2019-12-30 01:14:08.763 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - finded the links count
+2019-12-30 01:14:08.766 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count is 43
+2019-12-30 01:14:08.768 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count test pass
+2019-12-30 01:14:08.944 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 01:14:08.945 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 01:16:09.920 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 01:16:09.925 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:16:14.044 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 01:16:19.026 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - navigated to home
+2019-12-30 01:16:19.111 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - finded the links count
+2019-12-30 01:16:19.124 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count is 43
+2019-12-30 01:16:19.125 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count test pass
+2019-12-30 01:16:19.322 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 01:16:19.323 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 01:31:23.936 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 01:31:23.942 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:31:28.074 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 01:31:32.136 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - navigated to home
+2019-12-30 01:31:32.185 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - finded the links count
+2019-12-30 01:31:32.188 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count is 43
+2019-12-30 01:31:32.188 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count test pass
+2019-12-30 01:31:32.401 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 01:31:32.402 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 01:31:32.527 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 01:31:32.528 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:31:32.612 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 01:31:32.612 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:31:32.825 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 01:31:32.826 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:31:33.027 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 01:31:33.027 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:31:33.265 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 01:31:33.266 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:41:18.600 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 01:41:18.604 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:41:22.730 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 01:41:26.763 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - navigated to home
+2019-12-30 01:41:26.803 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - finded the links count
+2019-12-30 01:41:26.806 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count is 43
+2019-12-30 01:41:26.806 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count test pass
+2019-12-30 01:41:27.018 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 01:41:27.019 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 01:41:27.141 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 01:41:27.141 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:41:27.227 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 01:41:27.228 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:41:27.438 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 01:41:27.438 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:41:27.643 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 01:41:27.643 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:41:27.874 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 01:41:27.875 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 2 Pass
+2019-12-30 01:53:13.031 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 01:53:13.037 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:53:17.160 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 01:54:27.805 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 01:54:27.811 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 01:54:31.935 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 01:54:36.311 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - navigated to home
+2019-12-30 01:54:36.362 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - finded the links count
+2019-12-30 01:54:36.364 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count is 43
+2019-12-30 01:54:36.365 [INFO] com.HerokuApp.HomePageTest HomeLinksCounttest - link count test pass
+2019-12-30 01:54:36.576 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 01:54:36.576 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 01:54:36.692 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 01:54:36.693 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 01:54:36.776 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 01:54:36.777 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 01:54:36.987 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 01:54:36.987 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 01:54:37.189 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 01:54:37.189 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 01:54:37.419 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 01:54:37.420 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:36:37.225 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:36:37.231 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:36:41.356 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:36:46.722 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions Setup - chrome is started
+2019-12-30 02:36:46.726 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 02:36:50.858 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 02:36:55.310 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - navigated to home
+2019-12-30 02:36:55.354 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 02:36:55.356 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 02:36:55.358 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 02:36:55.590 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 02:36:55.591 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 02:36:55.710 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 02:36:55.711 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:36:55.800 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 02:36:55.801 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:36:56.009 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 02:36:56.009 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:36:56.210 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 02:36:56.210 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:36:56.449 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 02:36:56.450 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:38:28.577 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:38:28.583 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:38:32.706 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:38:32.717 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 02:38:32.723 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 02:38:36.185 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - navigated to home
+2019-12-30 02:38:36.230 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 02:38:36.236 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 02:38:36.237 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 02:38:36.452 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 02:38:36.453 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 02:38:36.565 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 02:38:36.565 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:38:36.655 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 02:38:36.656 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:38:36.858 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 02:38:36.858 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:38:37.061 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 02:38:37.062 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:38:37.298 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 02:38:37.298 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:42:21.680 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:42:21.688 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:42:25.809 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:42:25.826 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 02:42:25.835 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - window maximized
+2019-12-30 02:42:29.667 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - navigated to home
+2019-12-30 02:42:29.715 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 02:42:29.717 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 02:42:29.719 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 02:42:29.940 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 02:42:29.940 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 02:42:30.066 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 02:42:30.066 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:42:30.150 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 02:42:30.151 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:42:30.358 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 02:42:30.358 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:42:30.565 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 02:42:30.565 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:42:30.803 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 02:42:30.804 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:03.891 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:44:03.896 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:44:08.017 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:44:08.025 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 02:44:12.423 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 02:44:12.434 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 02:44:12.484 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 02:44:12.491 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 02:44:12.491 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 02:44:12.700 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 02:44:12.701 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 02:44:12.816 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 02:44:12.817 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:12.897 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 02:44:12.897 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:13.103 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 02:44:13.103 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:13.303 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 02:44:13.303 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:13.535 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 02:44:13.535 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:28.169 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:44:28.174 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:44:32.296 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:44:32.307 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 02:44:36.127 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 02:44:36.138 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 02:44:36.184 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 02:44:36.190 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 02:44:36.190 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 02:44:36.405 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 02:44:36.405 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 02:44:36.522 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 02:44:36.522 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:36.605 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 02:44:36.606 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:36.805 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 02:44:36.806 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:37.005 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 02:44:37.006 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:44:37.244 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 02:44:37.244 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 02:51:54.406 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:51:54.411 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:51:58.535 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:51:58.544 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 02:52:01.774 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 02:52:01.787 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 02:52:02.025 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 02:52:02.025 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 02:52:02.756 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are executed
+2019-12-30 02:55:52.895 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:55:52.901 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:55:57.026 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:55:57.699 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 02:55:57.716 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 02:57:25.510 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:57:25.517 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:57:29.642 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:57:30.656 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 02:59:10.384 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:59:10.389 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:59:14.522 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 02:59:15.262 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 02:59:53.912 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 02:59:53.919 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 02:59:58.043 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 03:00:02.915 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:01:11.822 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:01:11.829 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 03:01:15.953 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 03:01:20.775 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:02:39.691 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:02:39.698 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 03:02:43.821 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 03:02:48.915 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:03:50.432 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:03:50.438 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 03:03:54.561 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 03:06:34.533 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:06:34.540 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 03:06:38.668 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 03:07:57.585 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:07:57.590 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 03:08:01.712 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 03:15:08.234 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:15:08.241 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - implicity wait set for 30 seconds
+2019-12-30 03:15:12.365 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - window maximized
+2019-12-30 03:15:13.325 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:15:13.340 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:16:45.459 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:16:46.143 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:16:46.155 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:18:43.802 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:18:49.116 [SEVERE] com.HerokuApp.HomePageTest cofigset - chrome is started
+2019-12-30 03:18:49.117 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:18:53.244 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:18:56.572 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:18:56.819 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 03:18:56.819 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 03:18:57.516 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:19:02.578 [SEVERE] com.HerokuApp.HomePageTest cofigset - chrome is started
+2019-12-30 03:19:02.578 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:19:06.705 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:19:10.794 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:19:10.796 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:19:16.160 [SEVERE] com.HerokuApp.HomePageTest cofigset - chrome is started
+2019-12-30 03:19:16.161 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:19:20.288 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:19:24.740 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:19:24.974 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 03:19:24.974 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:19:25.079 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 03:19:25.079 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:19:25.294 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 03:19:25.295 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:19:25.494 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 03:19:25.494 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:19:25.730 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 03:19:25.730 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:19:26.455 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:22:32.855 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions BSuite - chrome is started
+2019-12-30 03:22:37.893 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:22:42.027 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:22:47.344 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:22:47.591 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 03:22:47.591 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 03:22:48.533 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:27:11.970 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:27:36.422 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:29:54.470 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:34:58.027 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:37:35.963 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:38:11.930 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 03:38:11.931 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:38:16.059 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:38:20.558 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:38:20.846 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 03:38:20.847 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:38:20.957 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 03:38:20.957 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:38:21.189 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 03:38:21.190 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:38:21.425 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 03:38:21.425 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:38:21.696 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 03:38:21.697 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:38:22.360 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:50:40.785 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 03:50:40.785 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:50:44.931 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:50:48.404 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:50:48.799 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 03:50:48.799 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:50:48.935 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 03:50:48.935 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:50:49.275 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 03:50:49.275 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:50:49.599 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 03:50:49.599 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:50:49.992 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 03:50:49.992 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 03:50:50.740 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:53:48.529 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 03:53:48.529 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:53:52.674 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:53:56.586 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:53:56.602 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 03:53:56.978 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 03:53:56.982 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 03:53:58.103 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 03:55:01.367 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 03:55:01.367 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 03:55:05.525 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 03:55:09.522 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 03:55:09.538 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 03:55:09.926 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 03:55:09.926 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 03:55:10.682 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:02:46.997 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 04:02:46.997 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:02:51.139 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:02:55.214 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:02:55.233 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:02:55.617 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:02:55.617 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:02:56.373 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:03:53.876 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 04:03:53.876 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:03:58.011 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:04:02.611 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:04:02.625 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:04:02.701 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:04:02.705 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:04:02.713 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:04:03.045 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:04:03.045 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:04:03.245 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:04:03.245 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:04:03.405 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:04:03.405 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:04:03.749 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:04:03.749 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:04:04.068 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:04:04.068 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:04:04.440 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:04:04.440 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:04:05.440 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:11:06.374 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 04:11:06.374 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:11:10.517 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:11:15.496 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:11:15.524 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:11:15.620 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:11:15.624 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:11:15.628 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:11:15.956 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:11:15.960 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:11:16.156 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:11:16.156 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:11:16.296 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:11:16.300 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:11:16.640 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:11:16.640 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:11:16.952 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:11:16.956 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:11:17.332 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:11:17.332 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:11:18.386 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:17:10.398 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 04:17:10.398 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:17:14.547 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:17:27.683 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:17:27.699 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:17:27.751 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:17:27.755 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:17:27.755 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:17:28.051 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:17:28.051 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:17:28.231 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:17:28.231 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:17:28.355 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:17:28.355 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:17:28.735 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:17:28.735 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:17:29.039 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:17:29.039 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:17:29.403 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:17:29.403 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:17:30.927 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:18:30.959 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:18:30.959 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:18:31.238 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:18:35.750 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:18:35.769 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:18:35.825 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:18:35.829 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:18:35.833 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:18:35.977 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:18:35.977 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:18:36.153 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:18:36.153 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:18:36.237 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:18:36.237 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:18:36.389 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:18:36.389 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:18:36.581 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:18:36.581 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:18:36.761 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:18:36.761 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:18:38.277 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:19:53.006 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:19:53.010 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:19:53.018 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:19:56.558 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:19:56.578 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:19:56.626 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:19:56.626 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:19:56.626 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:19:56.762 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:19:56.762 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:19:56.866 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:19:56.866 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:19:56.946 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:19:56.950 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:19:57.086 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:19:57.086 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:19:57.246 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:19:57.246 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:19:57.418 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:19:57.418 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:19:58.662 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:20:25.139 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:20:25.139 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:20:25.151 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:20:29.063 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:20:29.087 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:20:29.131 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:20:29.135 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:20:29.135 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:20:29.267 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:20:29.267 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:20:29.371 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:20:29.371 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:20:29.447 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:20:29.451 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:20:29.587 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:20:29.587 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:20:29.755 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:20:29.755 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:20:29.927 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:20:29.927 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:20:31.227 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:27:05.626 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:27:05.626 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:27:05.646 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:27:10.322 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:27:10.342 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:27:10.386 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:27:10.390 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:27:10.390 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:27:10.522 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:27:10.526 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:27:10.630 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:27:10.630 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:27:10.706 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:27:10.706 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:27:10.842 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:27:10.842 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:27:11.006 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:27:11.006 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:27:11.182 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:27:11.182 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:27:12.274 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:34:04.197 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 04:34:04.197 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:34:08.345 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:34:12.253 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:34:12.269 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:34:12.325 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:34:12.329 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:34:12.329 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:34:12.617 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:34:12.621 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:34:12.801 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:34:12.801 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:34:12.933 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:34:12.933 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:34:13.261 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:34:13.265 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:34:13.565 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:34:13.565 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:34:13.985 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:34:13.985 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:34:14.845 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:34:32.244 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:42:12.727 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:45:17.037 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:45:17.037 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:45:17.342 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:45:21.758 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:45:21.777 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:45:21.861 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:45:21.861 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:45:21.865 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:45:21.997 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:45:22.001 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:45:22.105 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:45:22.105 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:22.181 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:45:22.185 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:22.329 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:45:22.329 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:22.513 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:45:22.513 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:22.705 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:45:22.705 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:24.182 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:45:47.705 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:45:47.705 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:45:47.721 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:45:52.221 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:45:52.241 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:45:52.285 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:45:52.289 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:45:52.289 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:45:52.429 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:45:52.429 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:45:52.545 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:45:52.545 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:52.621 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:45:52.621 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:52.769 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:45:52.769 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:52.937 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:45:52.937 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:53.105 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:45:53.109 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:45:54.233 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:46:49.357 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:46:49.361 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:46:49.649 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:46:53.093 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:46:53.113 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:46:53.185 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:46:53.185 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:46:53.189 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:46:53.333 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:46:53.333 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:46:53.453 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:46:53.453 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:46:53.533 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:46:53.533 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:46:53.677 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:46:53.677 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:46:53.865 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:46:53.865 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:46:54.061 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:46:54.061 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:46:55.591 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:50:30.455 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:50:30.502 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:51:42.588 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:51:42.588 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:51:42.596 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:51:47.104 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:51:47.125 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:51:47.168 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:51:47.172 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:51:47.172 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:51:47.304 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:51:47.304 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:51:47.408 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:51:47.408 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:51:47.484 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:51:47.484 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:51:47.620 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:51:47.620 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:51:47.780 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:51:47.780 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:51:47.968 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:51:47.968 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:51:49.124 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:52:28.071 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 04:52:28.071 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:52:32.207 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:52:35.515 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:52:35.531 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:52:35.591 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:52:35.591 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:52:35.591 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:52:35.895 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:52:35.895 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:52:36.063 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:52:36.063 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:52:36.191 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:52:36.191 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:52:36.527 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:52:36.527 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:52:36.823 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:52:36.823 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:52:37.187 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:52:37.187 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:52:38.015 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 04:53:16.221 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 04:53:16.221 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 04:53:16.516 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 04:53:19.867 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 04:53:19.885 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 04:53:19.949 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 04:53:19.949 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 04:53:19.949 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 04:53:20.101 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 04:53:20.105 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 04:53:20.213 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 04:53:20.213 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:53:20.293 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 04:53:20.293 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:53:20.453 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 04:53:20.453 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:53:20.641 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 04:53:20.641 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:53:20.829 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 04:53:20.829 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 04:53:22.819 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 05:00:11.361 [SEVERE] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - chrome is started
+2019-12-30 05:00:11.365 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 05:00:15.501 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 05:00:18.873 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 05:00:18.885 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 05:00:18.941 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 05:00:18.945 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 05:00:18.945 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 05:00:19.261 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 05:00:19.261 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 05:00:19.445 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 05:00:19.445 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:19.581 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 05:00:19.581 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:19.905 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 05:00:19.905 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:20.217 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 05:00:20.217 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:20.597 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 05:00:20.597 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:21.441 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended
+2019-12-30 05:00:48.364 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions IntializeDriver - firefox is started
+2019-12-30 05:00:48.364 [WARNING] com.HerokuApp.HomePageTest cofigset - All tests are started
+2019-12-30 05:00:48.372 [INFO] com.HerokuApp.HomePageTest cofigset - window maximized
+2019-12-30 05:00:52.012 [INFO] com.HerokuApp.HomePageTest cofigset - navigated to home
+2019-12-30 05:00:52.032 [INFO] com.HerokuApp.PageObjects.ApplicationFunctions Setup - implicity wait set for 30 seconds
+2019-12-30 05:00:52.076 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - finded the links count
+2019-12-30 05:00:52.080 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count is 43
+2019-12-30 05:00:52.080 [INFO] com.HerokuApp.HomePageTest AomeLinksCounttest - link count test pass
+2019-12-30 05:00:52.212 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - this Link is available in page Entry Ad
+2019-12-30 05:00:52.212 [INFO] com.HerokuApp.HomePageTest HomeLinkpresenttest - Test 2 Pass
+2019-12-30 05:00:52.316 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Dynamic Loading
+2019-12-30 05:00:52.316 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:52.400 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Drag and Drop
+2019-12-30 05:00:52.400 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:52.540 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Geolocation
+2019-12-30 05:00:52.540 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:52.700 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Infinite Scroll
+2019-12-30 05:00:52.700 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:52.880 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - this Link is available in page Key Presses
+2019-12-30 05:00:52.880 [INFO] com.HerokuApp.HomePageTest HomeLinkpresentTestwithdataprovider - Test 3 Pass
+2019-12-30 05:00:54.000 [WARNING] com.HerokuApp.HomePageTest cofigout - All tests are ended

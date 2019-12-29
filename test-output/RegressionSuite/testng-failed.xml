@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="BaseURL" value="http://the-internet.herokuapp.com//"/>
+  <test name="SmokeTest">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="BaseURL" value="http://the-internet.herokuapp.com//"/>
+    <groups>
+      <define name="SmokeTest">
+        <include name="e2e"/>
+        <include name="smoke"/>
+      </define> <!-- SmokeTest -->
+      <define name="RegTest">
+        <include name="e2e"/>
+        <include name="regression"/>
+      </define> <!-- RegTest -->
+      <run>
+        <include name="SmokeTest"/>
+        <include name="RegTest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.HerokuApp.HomePageTest"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- Failed suite [RegressionSuite] -->

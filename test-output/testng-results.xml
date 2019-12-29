@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="11458" started-at="2019-12-29T23:23:11Z" finished-at="2019-12-29T23:23:22Z">
+    <groups>
+      <group name="regression">
+        <method signature="HomePageTest.AomeLinksCounttest()[pri:1, instance:com.HerokuApp.HomePageTest@1d057a39]" name="AomeLinksCounttest" class="com.HerokuApp.HomePageTest"/>
+        <method signature="HomePageTest.HomeLinkpresentTestwithdataprovider(java.lang.String)[pri:3, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresentTestwithdataprovider" class="com.HerokuApp.HomePageTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="HomePageTest.AomeLinksCounttest()[pri:1, instance:com.HerokuApp.HomePageTest@1d057a39]" name="AomeLinksCounttest" class="com.HerokuApp.HomePageTest"/>
+        <method signature="HomePageTest.HomeLinkpresenttest()[pri:2, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresenttest" class="com.HerokuApp.HomePageTest"/>
+      </group> <!-- smoke -->
+      <group name="e2e">
+        <method signature="HomePageTest.AomeLinksCounttest()[pri:1, instance:com.HerokuApp.HomePageTest@1d057a39]" name="AomeLinksCounttest" class="com.HerokuApp.HomePageTest"/>
+      </group> <!-- e2e -->
+    </groups>
+    <test name="SmokeTest" duration-ms="11458" started-at="2019-12-29T23:23:11Z" finished-at="2019-12-29T23:23:22Z">
+      <class name="com.HerokuApp.HomePageTest">
+        <test-method status="PASS" signature="BSuite()[pri:0, instance:com.HerokuApp.HomePageTest@1d057a39]" name="BSuite" is-config="true" duration-ms="100" started-at="2019-12-30T04:53:11Z" finished-at="2019-12-30T04:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BSuite -->
+        <test-method status="PASS" signature="cofigset(java.lang.String, java.lang.String)[pri:0, instance:com.HerokuApp.HomePageTest@1d057a39]" name="cofigset" is-config="true" duration-ms="8511" started-at="2019-12-30T04:53:11Z" finished-at="2019-12-30T04:53:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://the-internet.herokuapp.com//]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigset -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.HerokuApp.HomePageTest@1d057a39]" name="Setup" is-config="true" duration-ms="16" started-at="2019-12-30T04:53:19Z" finished-at="2019-12-30T04:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="AomeLinksCounttest()[pri:1, instance:com.HerokuApp.HomePageTest@1d057a39]" name="AomeLinksCounttest" duration-ms="60" started-at="2019-12-30T04:53:19Z" finished-at="2019-12-30T04:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AomeLinksCounttest -->
+        <test-method status="PASS" signature="HomeLinkpresenttest()[pri:2, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresenttest" duration-ms="152" started-at="2019-12-30T04:53:19Z" finished-at="2019-12-30T04:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLinkpresenttest -->
+        <test-method status="PASS" signature="HomeLinkpresentTestwithdataprovider(java.lang.String)[pri:3, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresentTestwithdataprovider" duration-ms="104" started-at="2019-12-30T04:53:20Z" data-provider="getdata" finished-at="2019-12-30T04:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dynamic Loading]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLinkpresentTestwithdataprovider -->
+        <test-method status="PASS" signature="HomeLinkpresentTestwithdataprovider(java.lang.String)[pri:3, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresentTestwithdataprovider" duration-ms="76" started-at="2019-12-30T04:53:20Z" data-provider="getdata" finished-at="2019-12-30T04:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Drag and Drop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLinkpresentTestwithdataprovider -->
+        <test-method status="PASS" signature="HomeLinkpresentTestwithdataprovider(java.lang.String)[pri:3, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresentTestwithdataprovider" duration-ms="160" started-at="2019-12-30T04:53:20Z" data-provider="getdata" finished-at="2019-12-30T04:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Geolocation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLinkpresentTestwithdataprovider -->
+        <test-method status="PASS" signature="HomeLinkpresentTestwithdataprovider(java.lang.String)[pri:3, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresentTestwithdataprovider" duration-ms="180" started-at="2019-12-30T04:53:20Z" data-provider="getdata" finished-at="2019-12-30T04:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Infinite Scroll]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLinkpresentTestwithdataprovider -->
+        <test-method status="PASS" signature="HomeLinkpresentTestwithdataprovider(java.lang.String)[pri:3, instance:com.HerokuApp.HomePageTest@1d057a39]" name="HomeLinkpresentTestwithdataprovider" duration-ms="188" started-at="2019-12-30T04:53:20Z" data-provider="getdata" finished-at="2019-12-30T04:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Key Presses]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLinkpresentTestwithdataprovider -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.HerokuApp.HomePageTest@1d057a39]" name="Teardown" is-config="true" duration-ms="1986" started-at="2019-12-30T04:53:20Z" finished-at="2019-12-30T04:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="cofigout()[pri:0, instance:com.HerokuApp.HomePageTest@1d057a39]" name="cofigout" is-config="true" duration-ms="0" started-at="2019-12-30T04:53:22Z" finished-at="2019-12-30T04:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigout -->
+        <test-method status="PASS" signature="ASuite()[pri:0, instance:com.HerokuApp.HomePageTest@1d057a39]" name="ASuite" is-config="true" duration-ms="0" started-at="2019-12-30T04:53:22Z" finished-at="2019-12-30T04:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ASuite -->
+      </class> <!-- com.HerokuApp.HomePageTest -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
